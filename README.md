@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goc3
-- 👀 I’m interested in python, data visualization, data science, ML, NLB, AI, cyber-security, but mostly - never stop learning!
+- 👀 I’m interested in python, data visualization, data science, ML, NLP, AI, cyber-security, but mostly - never stop learning!
 - 🌱 I’m currently learning python 3.9, SQL, MongoDB, Tableau, VScode, Git ...
 - 💞️ I’m looking to collaborate on ... not much really, still a long way to go learning solo :)
 - 📫 How to reach me ... via Github
